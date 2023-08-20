@@ -12,6 +12,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 *   🚀  See my poroject white VanillaJS at [DM. WAY](http://dmway.de)
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on <b>JavaScript</b> | <b>React.js</b> | <b>Next.js</b> | <b>Redux.js</b> | <b>RESTful API</b> | <b>TypeScript</b> | <b>Bootstrap</b> | <b>TailwindCSS</b> | <b>SASS</b> | <b>Git</b> | <b>HTML5</b> | <b>CSS</b> | <b>Media Query(Responsive)</b> | <b>Mobile First Index</b> | <b>WordPress</b> | <b>Web Design</b> | <b>Web Analyse</b> | <b>SEO</b> | <b>Photoshop</b> | <b>Figma</b>.
+<br />
 
 ### Skills:
 <div align="center" dir="auto">
@@ -72,17 +73,18 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
      <a target="_blank" rel="noopener noreferrer nofollow" ><img title="Figma" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" height="40" width="40" alt="Figma logo" data-canonical-src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" style="max-width: 100%;"></a>
 </div>
 
+<br />
+
 ### 🌐 Social media:
 <div align="center">
   
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/mohsen-ghandali-47a1aa224" ><img title="LinkedIn" src="https://www.svgrepo.com/download/448234/linkedin.svg" height="50" width="50" alt="LinkedIn logo" data-canonical-src="https://www.svgrepo.com/download/448234/linkedin.svg" style="max-width: 100%;"></a>
 </div>
 
-
 ### 📊 GitHub Stats:
 <div align="center">
   
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/><br />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Ghandali&theme=city_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
