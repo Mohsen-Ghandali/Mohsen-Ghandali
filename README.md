@@ -87,7 +87,6 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 </div>
 
 ---
-
     
 ### 🌐 Social media:
 
