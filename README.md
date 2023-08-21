@@ -108,5 +108,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 ---
 
