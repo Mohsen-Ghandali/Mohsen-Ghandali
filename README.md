@@ -93,6 +93,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 <div align="center" >
 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/mohsen-ghandali-47a1aa224" ><img title="LinkedIn" src="https://www.svgrepo.com/download/448234/linkedin.svg" height="50" width="50" alt="LinkedIn logo" data-canonical-src="https://www.svgrepo.com/download/448234/linkedin.svg" style="max-width: 100%;"></a>
+
 </div>
 
 ---
