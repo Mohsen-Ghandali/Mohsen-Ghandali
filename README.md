@@ -16,7 +16,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 ---
 
-### Skills:
+### 🖥 Skills:
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" alt="javascript logo" data-canonical-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style="max-width: 100%;"></a>
       <img>
