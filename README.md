@@ -108,7 +108,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
