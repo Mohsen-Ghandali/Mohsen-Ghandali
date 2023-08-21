@@ -77,25 +77,32 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 ---
 
+### 📊 GitHub Stats:
 
+<div align="center" >
+    
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/><br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Ghandali&size_weight=0.5&count_weight=0.5)
+
+</div>
+
+---
+
+    
 ### 🌐 Social media:
-<div align="center">
-  
+
+<div align="center" >
+
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/mohsen-ghandali-47a1aa224" ><img title="LinkedIn" src="https://www.svgrepo.com/download/448234/linkedin.svg" height="50" width="50" alt="LinkedIn logo" data-canonical-src="https://www.svgrepo.com/download/448234/linkedin.svg" style="max-width: 100%;"></a>
 </div>
 
 ---
 
-### 📊 GitHub Stats:
 <div align="center" >
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Ghandali&size_weight=0.5&count_weight=0.5)
-
----
-
+    
 [![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false)](https://github.com/mohsen-ghandali)
+</div>
 
 ---
-</div>
+
            
