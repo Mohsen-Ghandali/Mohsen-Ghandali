@@ -107,4 +107,4 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 </div>
 
 ---
-     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
