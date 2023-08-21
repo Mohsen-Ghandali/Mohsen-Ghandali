@@ -104,7 +104,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=mohsen-ghandali&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
