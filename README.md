@@ -100,9 +100,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 <div align="center" >
     
-<a href="https://github.com/mohsen-ghandali">
-  <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=10&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=10&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
