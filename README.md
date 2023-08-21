@@ -100,11 +100,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 <div align="center" >
     
-<a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
-
-[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+ <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" /></a>
 
 </div>
 
