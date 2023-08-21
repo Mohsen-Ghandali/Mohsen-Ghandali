@@ -101,13 +101,10 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 <div align="center" >
     
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
+<img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 
 </div>
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
-</a>
-           
+     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
