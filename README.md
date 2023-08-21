@@ -83,7 +83,6 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/><br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Ghandali&size_weight=0.5&count_weight=0.5)
-[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 </div>
 
@@ -105,17 +104,12 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
 
-[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&color=12&pretty=false" />
-</a>
 
-[![](https://visitcount.itsvg.in/api?id=m-tabaei&label=Profile&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
