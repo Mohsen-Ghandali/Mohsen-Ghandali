@@ -104,6 +104,9 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&icon=0&pretty=true" /></a>
 
+
+![image title](https://rushter.com/counter.svg)
+
 </div>
 
 ---
