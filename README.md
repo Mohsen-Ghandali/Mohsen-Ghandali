@@ -16,11 +16,11 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 <b> My projects:</b> <br />
 1- VanillaJs: https://dmway.de  <br />
-2- REST API: http://217.160.64.18 <br />
+2- REST-API: http://217.160.64.18 <br />
 3- TailwindCSS: https://mohsen-ghandali.github.io <br />
 4- Bootstrap: https://bootstrap-project-zeta.vercel.app <br />
 5- SASS: https://sass-scss-project.vercel.app <br />
-5- HTML_CSS: https://online-shop-project-gamma.vercel.app <br />
+5- HTML-CSS: https://online-shop-project-gamma.vercel.app <br />
 
 ---
 
