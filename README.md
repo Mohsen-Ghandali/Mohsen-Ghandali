@@ -20,7 +20,8 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 3- TailwindCSS: https://mohsen-ghandali.github.io <br />
 4- Bootstrap: https://bootstrap-project-zeta.vercel.app <br />
 5- SASS: https://sass-scss-project.vercel.app <br />
-5- HTML-CSS: https://online-shop-project-gamma.vercel.app <br />
+6- HTML-CSS-JavaScript: https://online-shop-project-gamma.vercel.app <br />
+7- Other projects: https://github.com/Mohsen-Ghandali?tab=repositories <br />
 
 ---
 
