@@ -16,13 +16,13 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 <b> My projects:</b> <br />
 1- React-Redux: https://react-redux-shop-putdj1b3z-mohsen-ghandali.vercel.app <br />
-1- VanillaJS: https://dmway.de  <br />
-2- REST-API: http://217.160.64.18 <br />
-3- TailwindCSS: https://mohsen-ghandali.github.io <br />
-4- Bootstrap: https://bootstrap-project-zeta.vercel.app <br />
-5- SASS: https://sass-scss-project.vercel.app <br />
-6- HTML-CSS-JavaScript: https://online-shop-project-gamma.vercel.app <br />
-7- Other projects: https://github.com/Mohsen-Ghandali?tab=repositories <br />
+2- VanillaJS: https://dmway.de  <br />
+3- REST-API: http://217.160.64.18 <br />
+4- TailwindCSS: https://mohsen-ghandali.github.io <br />
+5- Bootstrap: https://bootstrap-project-zeta.vercel.app <br />
+6- SASS: https://sass-scss-project.vercel.app <br />
+7- HTML-CSS-JavaScript: https://online-shop-project-gamma.vercel.app <br />
+8- Other projects: https://github.com/Mohsen-Ghandali?tab=repositories <br />
 
 ---
 
