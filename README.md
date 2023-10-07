@@ -44,6 +44,9 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/de/what-is/restful-api/"><img title="RESTful-API" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="40" width="40" alt="RESTful-API logo" data-canonical-src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" style="max-width: 100%;"></a>
        <img>
        <img>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://prismic.io/slice-machine"><img title="SliceMachine-Presmic" src="https://prismic.io/icon.svg" height="40" width="40" alt="SliceMachine-Presmic" data-canonical-src="https://prismic.io/icon.svg" style="max-width: 100%;"></a>
+       <img>
+       <img>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.typescriptlang.org/"><img title="TypeScript" src="https://www.svgrepo.com/download/303600/typescript-logo.svg" height="40" width="40" alt="TypeScript logo" data-canonical-src="https://www.svgrepo.com/download/303600/typescript-logo.svg" style="max-width: 100%;"></a>
        <img>
        <img>
