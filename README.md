@@ -32,13 +32,16 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"><img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" alt="javascript logo" data-canonical-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" style="max-width: 100%;"></a>
       <img>
        <img>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://vuejs.org/"><img title="Vue.js" src="https://www.svgrepo.com/show/439029/vue.svg" height="40" width="40" alt="Vue logo" data-canonical-src="https://www.svgrepo.com/show/439029/vue.svg" style="max-width: 100%;"></a>
+       <img>
+       <img>
    <a target="_blank" rel="noopener noreferrer nofollow" href="https://react.dev/"><img title="React.js" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.svg" height="40" width="40" alt="React.js logo" data-canonical-src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.svg" style="max-width: 100%;"></a>
        <img>
        <img>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs"><img title="Next.js" src="https://www.svgrepo.com/download/342062/next-js.svg" height="40" width="40" alt="Next.js logo" data-canonical-src="https://www.svgrepo.com/download/342062/next-js.svg" style="max-width: 100%;"></a>
        <img>
        <img>
-     <a target="_blank" rel="noopener noreferrer nofollow" href="https://react-redux.js.org/"><img title="Redux.js" src="https://www.svgrepo.com/download/452093/redux.svg" height="40" width="40" alt="Redux.js logo" data-canonical-src="https://www.svgrepo.com/download/452093/redux.svg" style="max-width: 100%;"></a>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://react-redux.js.org/"><img title="Redux.js" src="https://www.svgrepo.com/download/452093/redux.svg" height="40" width="40" alt="Redux.js logo" data-canonical-src="https://react-redux.js.org/img/redux.svg" style="max-width: 100%;"></a>
        <img>
        <img>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://aws.amazon.com/de/what-is/restful-api/"><img title="RESTful-API" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="40" width="40" alt="RESTful-API logo" data-canonical-src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" style="max-width: 100%;"></a>
@@ -80,7 +83,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://de.wikipedia.org/wiki/Web_Analytics"><img title="Web-Analysis" src="https://www.svgrepo.com/download/336376/analysis.svg" height="40" width="40" alt="Web-Analysis logo" data-canonical-src="https://www.svgrepo.com/download/336376/analysis.svg" style="max-width: 100%;"></a>
        <img>
        <img>
-     <a target="_blank" rel="noopener noreferrer nofollow" href="https://moz.com/learn/seo/what-is-seo"><img title="SEO" src="https://www.svgrepo.com/download/220473/seo.svg" height="40" width="40" alt="SEO logo" data-canonical-src="https://www.svgrepo.com/download/220473/seo.svg" style="max-width: 100%;"></a>
+     <a target="_blank" rel="noopener noreferrer nofollow" href="https://moz.com/learn/seo/what-is-seo"><img title="SEO" src="https://www.svgrepo.com/show/380851/seo-search-marketing-internet-network.svg" height="40" width="40" alt="SEO logo" data-canonical-src="https://www.svgrepo.com/download/220473/seo.svg" style="max-width: 100%;"></a>
        <img>
        <img>
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://en.wikipedia.org/wiki/Adobe_Photoshop"><img title="Photoshop" src="https://www.svgrepo.com/download/475668/photoshop-color.svg" height="40" width="40" width="40" alt="Photoshop logo" data-canonical-src="https://www.svgrepo.com/download/475668/photoshop-color.svg" style="max-width: 100%;"></a>
