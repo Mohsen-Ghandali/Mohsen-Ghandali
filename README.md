@@ -25,6 +25,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 7- HTML-CSS-JavaScript: https://online-shop-project-gamma.vercel.app <br />
 8- Other projects: https://github.com/Mohsen-Ghandali?tab=repositories <br />
 
+
 ---
 
 ### 💻 Skills:
@@ -89,6 +90,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
      <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.theme-junkie.com/what-is-figma/"><img title="Figma" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" height="40" width="40" alt="Figma logo" data-canonical-src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" style="max-width: 100%;"></a>
 </div>
 
+
 ---
 
 ### 📊 GitHub Stats:
@@ -103,7 +105,6 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 </div>
 
-
 ---
     
 ### 🌐 Social media:
@@ -113,14 +114,3 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/mohsen-ghandali-47a1aa224" ><img title="LinkedIn" src="https://www.svgrepo.com/download/448234/linkedin.svg" height="50" width="50" alt="LinkedIn logo" data-canonical-src="https://www.svgrepo.com/download/448234/linkedin.svg" style="max-width: 100%;"></a>
 
 </div>
-
----
-
-<div align="center " >
-    
-[![](https://visitcount.itsvg.in/api?id=Mohsen-Ghandali&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-</div>
-
----
-
