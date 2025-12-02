@@ -93,12 +93,16 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 
 ### 📊 GitHub Stats:
 
-<div align="center" >
-    
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen-Ghandali&theme=city_light&hide_border=false)<br/><br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen-Ghandali&size_weight=0.5&count_weight=0.5)
+<div align="center">
+  
+<!-- Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohsen-Ghandali&theme=github" height="180" style="width:33%; "  />
+
+<!-- Repos Per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohsen-Ghandali&theme=github" height="180" style="width:33%; " />
 
 </div>
+
 
 ---
     
