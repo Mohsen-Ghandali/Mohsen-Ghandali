@@ -119,7 +119,7 @@ I studied web development at the Hamburg Academy and have 4 years of experience 
 <div align="center">
   
 <!-- Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohsen-Ghandali&theme=github" height="180" style="width:33%; "  />
+<img src="https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
 
 <!-- Repos Per Language -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohsen-Ghandali&theme=github" height="180" style="width:33%; " />
