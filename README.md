@@ -1,7 +1,7 @@
 Hi! My name is Mohsen Ghandali
 =======================================================================================================================================
 
-Front End Developer
+Web Developer
 -------------------
 
 I studied web development at the Hamburg Academy and have 4 years of experience in the field of Front End Developer.
