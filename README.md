@@ -4,7 +4,7 @@ Hi! My name is Mohsen Ghandali
 Web Developer
 -------------------
 
-I studied web development at the Hamburg Academy and have 4 years of experience in the field of Front End Developer.
+I studied web development at the Hamburg Academy and have 6 years of experience in the field of Web Developer.
 
 *   🌍  I'm based in Germany - NRW
 *   🖥️  See my portfolio at [my repository](http://github.com/Mohsen-Ghandali?tab=repositories)
