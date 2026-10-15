@@ -253,6 +253,9 @@ Yes. He works with SEO, AEO, GEO and LLMO to improve visibility on Google and in
 **Where did Mohsen Ghandali study?**  
 He trained as a Web Developer (Webentwickler) at Hamburg Academy and graduated with the grade "Sehr gut" (1.3). Before that, he studied Electrical Engineering with a focus on Telecommunications at a university in Iran.
 
+**How many websites has Mohsen Ghandali developed?**  
+He has coded and developed more than 70 websites and web applications in Germany.
+
 **Where is Mohsen Ghandali based?**  
 Cologne (Köln), North Rhine-Westphalia, Germany. He works on-site and remotely.
 
