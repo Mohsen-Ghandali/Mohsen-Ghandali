@@ -1,8 +1,6 @@
 <div align="center">
 
-# Mohsen Ghandali
-
-### Full-Stack Web Developer & AI Automation Specialist in Cologne (Köln), Germany
+## Mohsen Ghandali – Full-Stack Web Developer & AI Automation Specialist in Cologne (Köln), Germany
 
 **React · Next.js · Vue · Nuxt · TypeScript · Supabase · PostgreSQL · n8n · SEO · AEO · GEO · LLMO**
 
