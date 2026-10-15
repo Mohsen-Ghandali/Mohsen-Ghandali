@@ -1,50 +1,50 @@
 
 <div align="center">
 
-<h2>Mohsen Ghandali – Web Developer & AI Automation Specialist</h2>
+<h2>Mohsen Ghandali – Full-Stack Web Developer & AI Automation Specialist</h2>
 
-<h3>Frontend & Backend Development | AI Automation | SEO & Digital Analytics</h3>
+<h3>Full-Stack Development | Supabase & PostgreSQL | n8n & AI Automation | SEO & Digital Analytics</h3>
 
 <p>
   <strong>Over 6 Years of Experience in Web Development</strong><br>
-  Based in Cologne, Germany
+  Cologne, Germany (NRW)
 </p>
 
 <p>
-  <strong>Frontend:</strong><br>
-  React.js • Next.js • Vue.js • Nuxt.js • JavaScript • TypeScript
+  <strong>Frontend Development</strong><br>
+  React.js • Next.js • Vue.js • Nuxt.js • JavaScript • TypeScript • Redux.js
 </p>
 
 <p>
-  <strong>Backend & Database:</strong><br>
-  PHP • Supabase • PostgreSQL • SQL • REST APIs
+  <strong>Backend & Database</strong><br>
+  PHP • Supabase (Backend-as-a-Service) • PostgreSQL • SQL • REST APIs
 </p>
 
 <p>
-  <strong>CMS & Content Management:</strong><br>
+  <strong>CMS & Content Management</strong><br>
   WordPress • Prismic • Slice Machine • Headless CMS
 </p>
 
 <p>
-  <strong>AI & Automation:</strong><br>
-  n8n • AI Workflows • API Integration • Automated Publishing
+  <strong>AI & Workflow Automation</strong><br>
+  n8n • AI Automation • AI Model Integration • API Workflows • Automated Publishing
 </p>
 
 <p>
-  <strong>SEO & Digital Marketing:</strong><br>
+  <strong>SEO, Analytics & Email Marketing</strong><br>
   SEO • AEO • GEO • LLMO • GA4 • GTM<br>
   Google Search Console • Brevo • Mailchimp
 </p>
 
 <p>
   <a href="https://github.com/Mohsen-Ghandali?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repositories">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mohsen Ghandali GitHub Repositories">
   </a>
   <a href="https://www.linkedin.com/in/mohsen-ghandali-47a1aa224">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mohsen Ghandali LinkedIn">
   </a>
   <a href="mailto:mohsen.2527.gh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Mohsen Ghandali">
   </a>
 </p>
 
@@ -52,41 +52,43 @@
 
 ---
 
-## 👨‍💻 About Mohsen Ghandali
+## About Mohsen Ghandali
 
-**Mohsen Ghandali** is a **Web Developer based in Cologne, Germany**, with **over 6 years of experience** in developing modern, responsive, high-performance, and scalable websites and web applications.
+**Mohsen Ghandali** is a **Full-Stack Web Developer and AI Automation Specialist based in Cologne, Germany**, with **over 6 years of experience** in developing modern, responsive, high-performance, and scalable websites and web applications.
 
-He studied **Web Development at Hamburg Academy** and specializes in **Frontend and Backend Development**, working with modern JavaScript frameworks, CMS platforms, databases, and API-based architectures.
+He studied **Web Development at Hamburg Academy** and works with modern frontend and backend technologies, including **JavaScript, TypeScript, React.js, Next.js, Vue.js, Nuxt.js, Redux.js, PHP, Supabase, PostgreSQL, SQL, and REST APIs**.
 
-Beyond web development, he builds intelligent automation workflows with **n8n**, connecting websites, APIs, databases, CMS systems, and AI models.
+His work also includes **WordPress, Prismic, Slice Machine, and Headless CMS development**, connecting flexible content management systems with modern web applications.
 
-A practical example is **PWR PLY**, where football news is automatically collected from different sources, processed, categorized, and published on the website.
+Beyond web development, Mohsen develops intelligent automation workflows using **n8n**, connecting websites, APIs, databases, CMS platforms, and AI models to automate data processing, content creation, categorization, and publishing.
 
-He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, combining modern web technologies, AI automation, and digital optimization to deliver scalable digital solutions.
+He also works with **SEO, AEO, GEO, LLMO, Google Analytics 4, Google Tag Manager, Google Search Console**, and **Email Marketing using Brevo and Mailchimp**.
+
+His focus is on combining **Full-Stack Web Development, AI Automation, Digital Analytics, and Search Optimization** to create scalable and efficient digital solutions.
 
 ### Quick Facts
 
-- 🌍 **Location:** Cologne, Germany (NRW)
-- 🎓 **Education:** Web Development – Hamburg Academy
-- 💻 **Experience:** Over 6 years in Web Development
-- 🚀 **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, TypeScript
-- ⚙️ **Backend:** PHP, Supabase (Backend-as-a-Service), REST APIs
-- 🗄️ **Databases:** PostgreSQL, SQL
-- 🌐 **CMS:** WordPress, Prismic, Slice Machine, Headless CMS
-- 🤖 **Automation:** n8n, AI Workflows, API Integrations
-- 🔎 **Digital Visibility:** SEO, AEO, GEO, LLMO
-- 📊 **Analytics:** GA4, GTM, Google Search Console
-- 📧 **Email Marketing:** Brevo, Mailchimp
-- 🤝 **Collaboration:** Web Development, AI Automation & Digital Solutions
+- **Location:** Cologne, Germany (NRW)
+- **Education:** Web Development – Hamburg Academy
+- **Experience:** Over 6 years in Web Development
+- **Frontend:** React.js, Next.js, Vue.js, Nuxt.js, TypeScript, Redux.js
+- **Backend:** PHP, Supabase (Backend-as-a-Service), REST APIs
+- **Database:** PostgreSQL, SQL
+- **CMS:** WordPress, Prismic, Slice Machine, Headless CMS
+- **AI Automation:** n8n, AI Workflows, API Integrations
+- **Digital Visibility:** SEO, AEO, GEO, LLMO
+- **Web Analytics:** GA4, GTM, Google Search Console
+- **Email Marketing:** Brevo, Mailchimp
+- **Collaboration:** Full-Stack Development, AI Automation & Digital Solutions
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
-### 💻 Frontend Development
+### Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&perline=6" alt="JavaScript, TypeScript, React, Next.js, Vue.js, Nuxt.js, Redux, HTML5, CSS3, SASS, Tailwind CSS and Bootstrap">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&perline=6" alt="JavaScript TypeScript React Next.js Vue.js Nuxt.js Redux HTML5 CSS3 SASS Tailwind CSS Bootstrap">
 </p>
 
 <p align="center">
@@ -95,21 +97,21 @@ He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, 
   <img src="https://img.shields.io/badge/Web_Design-7C3AED?style=for-the-badge" alt="Web Design">
 </p>
 
-### ⚙️ Backend Development & Databases
+### Backend Development & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,supabase,postgres&perline=3" alt="PHP, Supabase, PostgreSQL">
+  <img src="https://skillicons.dev/icons?i=php,supabase,postgres&perline=3" alt="PHP Supabase PostgreSQL">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-Backend_as_a_Service-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Backend as a Service">
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Database">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/SQL-Database-336791?style=for-the-badge" alt="SQL">
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs">
   <img src="https://img.shields.io/badge/API_Integration-007ACC?style=for-the-badge" alt="API Integration">
 </p>
 
-### 🌐 CMS & Content Management
+### CMS & Headless Content Management
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress">
@@ -122,7 +124,7 @@ He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, 
   <img src="https://img.shields.io/badge/Content_API-007ACC?style=for-the-badge" alt="Content API">
 </p>
 
-### 🤖 AI & Workflow Automation
+### AI Automation & n8n
 
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
@@ -133,17 +135,17 @@ He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, 
   <img src="https://img.shields.io/badge/Automated_Publishing-007ACC?style=for-the-badge" alt="Automated Publishing">
 </p>
 
-### 🔍 SEO & AI Search Optimization
+### SEO, AEO, GEO & LLMO
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Search Engine Optimization">
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO">
   <img src="https://img.shields.io/badge/AEO-673AB7?style=for-the-badge" alt="Answer Engine Optimization">
   <img src="https://img.shields.io/badge/GEO-00897B?style=for-the-badge" alt="Generative Engine Optimization">
   <img src="https://img.shields.io/badge/LLMO-3949AB?style=for-the-badge" alt="Large Language Model Optimization">
   <img src="https://img.shields.io/badge/Technical_SEO-FF6F00?style=for-the-badge" alt="Technical SEO">
 </p>
 
-### 📊 Web Analytics
+### Web Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics 4">
@@ -152,7 +154,7 @@ He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, 
   <img src="https://img.shields.io/badge/Conversion_Tracking-00897B?style=for-the-badge" alt="Conversion Tracking">
 </p>
 
-### 📧 Email Marketing
+### Email Marketing & Automation
 
 <p align="center">
   <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge" alt="Brevo">
@@ -161,17 +163,35 @@ He also works with **SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing**, 
   <img src="https://img.shields.io/badge/Email_Automation-7C3AED?style=for-the-badge" alt="Email Automation">
 </p>
 
-### 🎨 Design & Development Tools
+### Design & Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,ps&perline=4" alt="Git, GitHub, Figma, Adobe Photoshop">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ps&perline=4" alt="Git GitHub Figma Adobe Photoshop">
 </p>
 
 ---
 
-## 🤖 AI Automation & n8n Workflows
+## Full-Stack Web Development
 
-I design and implement automated workflows using **n8n**, connecting websites, REST APIs, databases, CMS platforms, and AI models.
+I develop modern web applications that combine **responsive frontend interfaces, backend services, databases, REST APIs, and CMS integrations**.
+
+My work includes:
+
+- React.js and Next.js development
+- Vue.js and Nuxt.js development
+- JavaScript and TypeScript applications
+- PHP and WordPress development
+- Supabase backend integration
+- PostgreSQL database integration
+- REST API implementation and integration
+- Prismic and Headless CMS development
+- Responsive and mobile-first web design
+
+---
+
+## AI Automation & n8n Workflows
+
+I design and implement intelligent automation workflows using **n8n**, connecting websites, REST APIs, databases, CMS platforms, and AI models.
 
 My automation solutions include:
 
@@ -180,17 +200,17 @@ My automation solutions include:
 - Automated classification and categorization
 - CMS and database synchronization
 - REST API integrations
-- Automated website content publishing
+- Automated website publishing
 - Newsletter and email marketing workflows
 - Marketing and communication automation
 
-### ⚽ PWR PLY – Automated Football News
+### PWR PLY – Automated Football News
 
-**PWR PLY** is a practical example of my automation work.
+**PWR PLY** is a real-world example of my automation work.
 
 The automated workflow retrieves football news from different sources, processes the information, categorizes content, and publishes articles directly on the website.
 
-This project demonstrates the integration of **n8n, REST APIs, automated data processing, and content publishing**.
+This project demonstrates the integration of **n8n, APIs, automated data processing, and content publishing**.
 
 <div align="center">
 
@@ -200,11 +220,11 @@ This project demonstrates the integration of **n8n, REST APIs, automated data pr
 
 ---
 
-## 🔎 SEO, AEO, GEO & LLMO
+## SEO, AEO, GEO & LLMO
 
-I focus on improving digital visibility across traditional search engines and AI-powered search, answer, and recommendation systems.
+I work on improving digital visibility for both traditional search engines and AI-powered search, answer, and recommendation systems.
 
-My areas of expertise include:
+My focus areas include:
 
 - **SEO – Search Engine Optimization:** Improving organic search visibility.
 - **AEO – Answer Engine Optimization:** Structuring content for answer-based search systems.
@@ -217,7 +237,7 @@ I combine these strategies with web analytics to evaluate results and continuous
 
 ---
 
-## 📊 Web Analytics & Performance
+## Web Analytics & Performance
 
 I work with **Google Analytics 4 (GA4)**, **Google Tag Manager (GTM)**, and **Google Search Console** to analyze website performance and optimize digital experiences.
 
@@ -232,7 +252,7 @@ My work includes:
 
 ---
 
-## 📧 Email Marketing & Automation
+## Email Marketing & Automation
 
 I work with **Brevo and Mailchimp** to create, manage, and optimize email marketing campaigns.
 
@@ -247,7 +267,7 @@ My experience includes:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Technologies | Live Demo |
 |:---|:---|:---:|
@@ -268,7 +288,7 @@ My experience includes:
 
 ---
 
-## 📈 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -280,11 +300,11 @@ My experience includes:
 
 ---
 
-## 📫 Contact & Collaboration
+## Contact Mohsen Ghandali
 
 <div align="center">
 
-Interested in **Frontend Development, Backend Development, AI Automation, SEO, or Digital Solutions**?
+Interested in **Full-Stack Web Development, AI Automation, SEO, or Digital Solutions**?
 
 Feel free to get in touch.
 
@@ -297,7 +317,7 @@ Feel free to get in touch.
   </a>
 </p>
 
-**Location:** Cologne, Germany (NRW)
+**Cologne, Germany (NRW)**
 
 </div>
 
@@ -305,9 +325,9 @@ Feel free to get in touch.
 
 <div align="center">
 
-**Mohsen Ghandali – Web Developer & AI Automation Specialist**
+**Mohsen Ghandali – Full-Stack Web Developer & AI Automation Specialist**
 
-Frontend & Backend Development • Supabase • PostgreSQL • n8n • SEO • AEO • GEO • LLMO • Web Analytics • Email Marketing
+React.js • Next.js • Vue.js • Nuxt.js • Supabase • PostgreSQL • n8n • SEO • AEO • GEO • LLMO • Web Analytics • Email Marketing
 
 *Building modern, scalable, and intelligent digital solutions.*
 
