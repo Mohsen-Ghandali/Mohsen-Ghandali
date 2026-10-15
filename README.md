@@ -11,8 +11,9 @@ I studied web development at the Hamburg Academy and have 6 years of experience 
 *   📧  You can contact me at [mohsen.2527.gh@gmail.com](mailto:mohsen.2527.gh@gmail.com)
 *   🚀  See my poroject white VanillaJS at [DM. WAY](https://dmway.de)
 *   🚀  See my poroject white React.js & Redux.js at [React-Redux-Shop](https://react-redux-shop-qct15rkoc-mohsen-ghandali.vercel.app)
-*   🧠 I'm learning <b>Supabase</b>
-*   🤝  I'm open to collaborating on <b>Vue.js 3</b> | <b>Nuxt.js 3 </b> | <b>JavaScript</b> | <b>React.js</b> | <b>Redux.js</b> | <b>SliceMachine</b> | <b>Prismic (Content API) Headless</b> | <b>RESTful API</b> | <b>TypeScript</b> | <b>Bootstrap</b> | <b>TailwindCSS</b> | <b>SASS</b> | <b>Git</b> | <b>HTML5</b> | <b>CSS</b> | <b>Media Query(Responsive)</b> | <b>Mobile First Index</b> | <b>WordPress</b> | <b>Web Design</b> | <b>Web Analyse</b> | <b>SEO</b>.
+*   ⚙️  Backend: Supabase (Backend-as-a-Service), REST APIs
+*   🗄️  Database: PostgreSQL, SQL
+*   🤝  I'm open to collaborating on <b>Vue.js 3</b> | <b>Nuxt.js 3 </b> | <b>JavaScript</b> | <b>React.js</b> | <b>Database: PostgreSQL, SQL</b> | <b>Backend: Supabase (Backend-as-a-Service)</b> | <b>SliceMachine</b> | <b>Prismic (Content API) Headless</b> | <b>RESTful API</b> | <b>TypeScript</b> | <b>Bootstrap</b> | <b>TailwindCSS</b> | <b>SASS</b> | <b>Git</b> | <b>HTML5</b> | <b>CSS</b> | <b>Media Query(Responsive)</b> | <b>Mobile First Index</b> | <b>WordPress</b> | <b>Web Design</b> | <b>Web Analyse</b> | <b>SEO</b>.
 <br />
 
 <b> My projects:</b> <br />
