@@ -1,138 +1,203 @@
-Hi! My name is Mohsen Ghandali
-=======================================================================================================================================
 
-Web Developer
--------------------
+<div align="center">
 
-I studied web development at the Hamburg Academy and have 6 years of experience in the field of Web Developer.
+## Mohsen Ghandali
 
-*   🌍  I'm based in Germany - NRW
-*   🖥️  See my portfolio at [my repository](http://github.com/Mohsen-Ghandali?tab=repositories)
-*   📧  You can contact me at [mohsen.2527.gh@gmail.com](mailto:mohsen.2527.gh@gmail.com)
-*   🚀  See my poroject white VanillaJS at [DM. WAY](https://dmway.de)
-*   🚀  See my poroject white React.js & Redux.js at [React-Redux-Shop](https://react-redux-shop-qct15rkoc-mohsen-ghandali.vercel.app)
-*   ⚙️  Backend: Supabase (Backend-as-a-Service), REST APIs
-*   🗄️  Database: PostgreSQL, SQL
-*   🤝  I'm open to collaborating on <b>Vue.js 3</b> | <b>Nuxt.js 3 </b> | <b>JavaScript</b> | <b>React.js</b> | <b>Database: PostgreSQL, SQL</b> | <b>Backend: Supabase (Backend-as-a-Service)</b> | <b>SliceMachine</b> | <b>Prismic (Content API) Headless</b> | <b>RESTful API</b> | <b>TypeScript</b> | <b>Bootstrap</b> | <b>TailwindCSS</b> | <b>SASS</b> | <b>Git</b> | <b>HTML5</b> | <b>CSS</b> | <b>Media Query(Responsive)</b> | <b>Mobile First Index</b> | <b>WordPress</b> | <b>Web Design</b> | <b>Web Analyse</b> | <b>SEO</b>.
-<br />
+### Web Developer | AI Automation | SEO & Digital Analytics
 
-<b> My projects:</b> <br />
-1- React.js & Redux.js: https://react-redux-shop-qct15rkoc-mohsen-ghandali.vercel.app <br />
-2- VanillaJS: https://dmway.de  <br />
-3- REST-API: http://217.160.64.18 <br />
-4- TailwindCSS: https://mohsen-ghandali.github.io <br />
-5- Bootstrap: https://bootstrap-project-zeta.vercel.app <br />
-6- SASS: https://sass-scss-project.vercel.app <br />
-7- HTML-CSS-JavaScript: https://online-shop-project-gamma.vercel.app <br />
-8- Other projects: https://github.com/Mohsen-Ghandali?tab=repositories <br />
+**Web Developer with over 6 years of experience** in building modern, scalable, and high-performance websites and web applications.
 
+I combine **Web Development, AI Automation, SEO, AEO, GEO, LLMO, Web Analytics, and Email Marketing** to build efficient digital solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen-Ghandali?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-ghandali-47a1aa224)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsen.2527.gh@gmail.com)
+
+</div>
 
 ---
 
-### 💻 Skills:
+## 👨‍💻 About Me
+
+- 🌍 Based in **Cologne, Germany (NRW)**
+- 🎓 Studied **Web Development at Hamburg Academy**
+- 💻 Over **6 years of experience** in Web Development
+- 🤖 Building intelligent workflows with **n8n & AI Automation**
+- 📈 Working with **SEO, AEO, GEO, LLMO & Digital Analytics**
+- 📧 Email Marketing using **Brevo & Mailchimp**
+- 🤝 Open to collaboration on Web Development, AI Automation, and Digital Solutions
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 💻 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nuxtjs,redux,html,css,sass,tailwind,bootstrap&perline=6" alt="Frontend Skills" />
+</p>
+
+### ⚙️ Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,supabase,postgres,mysql&perline=4" alt="Backend and Database Skills" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/API_Integration-007ACC?style=for-the-badge" alt="API Integration" />
+</p>
+
+### 🌐 CMS & Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=wordpress,git,github,figma&perline=4" alt="CMS and Development Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Prismic-5163BA?style=for-the-badge" alt="Prismic" />
+  <img src="https://img.shields.io/badge/Slice_Machine-5163BA?style=for-the-badge" alt="Slice Machine" />
+  <img src="https://img.shields.io/badge/Headless_CMS-333333?style=for-the-badge" alt="Headless CMS" />
+</p>
+
+### 🤖 AI & Workflow Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI_Automation-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/API_Integration-00897B?style=for-the-badge" alt="API Integration" />
+  <img src="https://img.shields.io/badge/Automated_Publishing-007ACC?style=for-the-badge" alt="Automated Publishing" />
+</p>
+
+### 📈 SEO, AEO, GEO & LLMO
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/AEO-673AB7?style=for-the-badge" alt="AEO" />
+  <img src="https://img.shields.io/badge/GEO-00897B?style=for-the-badge" alt="GEO" />
+  <img src="https://img.shields.io/badge/LLMO-3949AB?style=for-the-badge" alt="LLMO" />
+  <img src="https://img.shields.io/badge/Technical_SEO-FF6F00?style=for-the-badge" alt="Technical SEO" />
+</p>
+
+### 📊 Web Analytics & Email Marketing
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="GA4" />
+  <img src="https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white" alt="GTM" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Search Console" />
+  <img src="https://img.shields.io/badge/Brevo-0B996E?style=for-the-badge" alt="Brevo" />
+  <img src="https://img.shields.io/badge/Mailchimp-FFE01B?style=for-the-badge&logo=mailchimp&logoColor=black" alt="Mailchimp" />
+</p>
+
+---
+
+## 🤖 AI Automation & n8n
+
+I design and implement intelligent automated workflows using **n8n**, connecting websites, REST APIs, databases, CMS platforms, and AI models.
+
+My automation solutions include:
+
+- Automated data collection and processing
+- AI-powered content generation
+- Content categorization and management
+- Automated website publishing
+- API and database integrations
+- Email marketing and communication automation
+
+### ⚽ PWR PLY – Automated Football News
+
+**PWR PLY** is a practical example of my automation work.
+
+The workflow automatically collects football news from multiple sources, processes and categorizes the information, and publishes content directly to the website.
+
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript">
-<img title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" /></a>
-<img width="10"/>
-
-<a href="https://vuejs.org/">
-<img title="Vue.js" src="https://www.svgrepo.com/show/439029/vue.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://react.dev/">
-<img title="React.js" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/react-js-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://nextjs.org/">
-<img title="Next.js" src="https://www.svgrepo.com/download/342062/next-js.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://aws.amazon.com/de/what-is/restful-api/">
-<img title="REST API" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://prismic.io/slice-machine">
-<img title="Prismic" src="https://prismic.io/icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://www.typescriptlang.org/">
-<img title="TypeScript" src="https://www.svgrepo.com/download/303600/typescript-logo.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://getbootstrap.com/">
-<img title="Bootstrap" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://tailwindcss.com/">
-<img title="TailwindCSS" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/tailwind-css-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://www.codecademy.com/resources/blog/what-is-sass/">
-<img title="SASS" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/sass-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://www.atlassian.com/git/tutorials/what-is-git">
-<img title="Git" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/git-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://en.wikipedia.org/wiki/HTML5">
-<img title="HTML5" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS">
-<img title="CSS" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design">
-<img title="Responsive Design" src="https://www.svgrepo.com/download/294364/computer-tv.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://en.wikipedia.org/wiki/WordPress">
-<img title="WordPress" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/wordpress-icon.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://www.wix.com/blog/web-design">
-<img title="Web Design" src="https://www.svgrepo.com/download/426039/web-design.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://de.wikipedia.org/wiki/Web_Analytics">
-<img title="Web Analysis" src="https://www.svgrepo.com/download/336376/analysis.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://moz.com/learn/seo/what-is-seo">
-<img title="SEO" src="https://www.svgrepo.com/show/380851/seo-search-marketing-internet-network.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://en.wikipedia.org/wiki/Adobe_Photoshop">
-<img title="Photoshop" src="https://www.svgrepo.com/download/475668/photoshop-color.svg" height="40"/></a>
-<img width="10"/>
-
-<a href="https://www.theme-junkie.com/what-is-figma/">
-<img title="Figma" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/figma-icon.svg" height="40"/></a>
+[![Live Project](https://img.shields.io/badge/VIEW_LIVE_PROJECT-PWR_PLY-2563EB?style=for-the-badge)](https://www.pwrply.de/news)
 
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+## 🔍 SEO & AI Search Optimization
+
+I focus on improving website visibility across traditional search engines and AI-powered search and answer systems.
+
+**My areas of expertise include:**
+
+- **SEO:** Search Engine Optimization
+- **AEO:** Answer Engine Optimization
+- **GEO:** Generative Engine Optimization
+- **LLMO:** Large Language Model Optimization
+- **Technical SEO:** Website structure, indexing, and performance
+
+I use **Google Analytics 4, Google Tag Manager, and Google Search Console** to analyze user behavior, monitor conversions, and improve website performance.
+
+---
+
+## 📧 Email Marketing & Automation
+
+I work with **Brevo and Mailchimp** to develop and manage email marketing solutions, including:
+
+- Newsletter creation and campaigns
+- Email subscription integrations
+- Campaign tracking and analytics
+- Automated email workflows
+- Marketing automation using n8n
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Technologies | Live Demo |
+|:---|:---|:---:|
+| ⚽ **PWR PLY** | n8n, APIs, Automation | [Visit](https://www.pwrply.de/news) |
+| 🌐 **DM.WAY** | Vanilla JavaScript | [Visit](https://dmway.de) |
+| 🛒 **React Redux Shop** | React.js, Redux.js | [Visit](https://react-redux-shop-qct15rkoc-mohsen-ghandali.vercel.app) |
+| ⚙️ **REST API** | RESTful API | [Visit](http://217.160.64.18) |
+| 🎨 **Tailwind CSS** | Tailwind CSS | [Visit](https://mohsen-ghandali.github.io) |
+| 💜 **Bootstrap Project** | Bootstrap | [Visit](https://bootstrap-project-zeta.vercel.app) |
+| 💅 **SASS Project** | SASS, SCSS | [Visit](https://sass-scss-project.vercel.app) |
+| 🛍️ **Online Shop** | HTML5, CSS3, JavaScript | [Visit](https://online-shop-project-gamma.vercel.app) |
 
 <div align="center">
-  
-<!-- Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show_icons=true&include_all_commits=true&count_private=true" height="180"/>
 
-<!-- Repos Per Language -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohsen-Ghandali&theme=github" height="180" style="width:33%; " />
+[![All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen-Ghandali?tab=repositories)
 
 </div>
 
 ---
-    
-### 🌐 Social media:
 
-<div align="center" >
+## 📊 GitHub Statistics
 
- <a target="_blank" rel="noopener noreferrer nofollow" href="https://linkedin.com/in/mohsen-ghandali-47a1aa224" ><img title="LinkedIn" src="https://www.svgrepo.com/download/448234/linkedin.svg" height="50" width="50" alt="LinkedIn logo" data-canonical-src="https://www.svgrepo.com/download/448234/linkedin.svg" style="max-width: 100%;"></a>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mohsen-Ghandali&show_icons=true&include_all_commits=true&theme=github_dark" height="170" alt="GitHub Statistics" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohsen-Ghandali&theme=github_dark" height="170" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+Interested in collaborating on Web Development, AI Automation, or Digital Solutions?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohsen-ghandali-47a1aa224)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohsen.2527.gh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+**Building scalable digital solutions through Web Development, AI Automation, Analytics & Digital Visibility.**
+
+Cologne, Germany 🇩🇪
 
 </div>
